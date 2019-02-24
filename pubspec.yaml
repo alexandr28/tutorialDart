@@ -1,0 +1,13 @@
+name: turotial
+description: A sample command-line application.
+# version : 1.0.0
+# author: Alexandr <alexandr.campos@devcomtrujillo.com>
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  path: ^1.4.1
+  facebook_web_sdk: ^0.0.9
+
+dev_dependencies:
+  test: ^1.0.0
